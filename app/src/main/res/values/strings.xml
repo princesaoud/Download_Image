@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Download Image</string>
+    <string name="my_url">http://img2.wikia.nocookie.net/__cb20141101133153/simpsons/images/a/ab/BartSimpson.jpg</string>
+    <string name="hint_of_link">Enter url of any image</string>
+</resources>
